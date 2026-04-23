@@ -1,6 +1,6 @@
 {
-    "version": "1.4.0",
-    "download_url": "https://github.com/ahmedhosny2077/cheuqe/releases/download/v1.4.0/ChequeSystem_Setup_v1.4.0.exe",
-    "release_notes_ar": "إصلاح عرض رقم النسخة، إصلاح موضع الحقول في الطباعة المباشرة، تحسينات في الأداء",
+    "version": "1.5.0",
+    "download_url": "https://github.com/ahmedhosny2077/cheuqe/releases/download/v1.5.0/ChequeSystem_Setup_v1.5.0.exe",
+    "release_notes_ar": "تحسين واجهة صفحة المعايرة، إصلاح عرض رقم النسخة، تحسينات في الطباعة المباشرة",
     "file_size_mb": 48
 }
