@@ -1,6 +1,6 @@
 {
-    "version": "2.0.0",
-    "download_url": "https://github.com/ahmedhosny2077/cheuqe/releases/download/v2.0.0/ChequeSystem_Setup_v2.0.0.exe",
-    "release_notes_ar": "إصدار رئيسي جديد: تطبيق PyWebview مع Splash Screen، إصلاح طباعة المعاينة، تحسين مراقبة صحة السيرفر، RotatingFileHandler للسجلات",
+    "version": "2.0.1",
+    "download_url": "https://github.com/ahmedhosny2077/cheuqe/releases/download/v2.0.1/ChequeSystem_Setup_v2.0.1.exe",
+    "release_notes_ar": "إصلاح نسخ صور الشيكات تلقائياً عند التثبيت على جهاز جديد، تحسين نظام التحديثات التلقائية",
     "file_size_mb": 74
 }
